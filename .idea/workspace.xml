@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="640dc689-3eb9-40d2-8f6d-9cfafa96bf7a" name="Changes" comment="">
+    <list default="true" id="640dc689-3eb9-40d2-8f6d-9cfafa96bf7a" name="Changes" comment="Complete tutorial 2 - request and responses.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/snippets/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/snippets/serializers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/snippets/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/snippets/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/snippets/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/snippets/views.py" afterDir="false" />
     </list>
@@ -60,11 +59,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675621067682</updated>
-      <workItem from="1675634897681" duration="4491000" />
+      <workItem from="1675634897681" duration="6842000" />
     </task>
+    <task id="LOCAL-00001" summary="Complete tutorial 2 - request and responses.">
+      <created>1675702430312</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675702430312</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Complete tutorial 2 - request and responses." />
+    <option name="LAST_COMMIT_MESSAGE" value="Complete tutorial 2 - request and responses." />
   </component>
 </project>
